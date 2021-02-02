@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Telemundo Internacional">
+    <display-name lang="es">Canal Telemundo Internacional</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210202004000 -0600" stop="20210202013000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">En Otra Piel</title>
+  </programme>
+  <programme start="20210202013000 -0600" stop="20210202022000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210202022000 -0600" stop="20210202031000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210202031000 -0600" stop="20210202040000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210202040000 -0600" stop="20210202050000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Corazón valiente</title>
+  </programme>
+  <programme start="20210202050000 -0600" stop="20210202060000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Corazón valiente</title>
+  </programme>
+  <programme start="20210202060000 -0600" stop="20210202065000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Suelta la Sopa</title>
+  </programme>
+  <programme start="20210202065000 -0600" stop="20210202074000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">La Querida del Centauro</title>
+  </programme>
+  <programme start="20210202074000 -0600" stop="20210202083000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">La Querida del Centauro</title>
+  </programme>
+  <programme start="20210202083000 -0600" stop="20210202090000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Noticiero Telemundo</title>
+  </programme>
+  <programme start="20210202090000 -0600" stop="20210202100000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20210202100000 -0600" stop="20210202110000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Corazón valiente</title>
+  </programme>
+  <programme start="20210202110000 -0600" stop="20210202120000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Corazón valiente</title>
+  </programme>
+  <programme start="20210202120000 -0600" stop="20210202130000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210202130000 -0600" stop="20210202135000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20210202135000 -0600" stop="20210202144000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210202144000 -0600" stop="20210202153000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Decisiones</title>
+  </programme>
+  <programme start="20210202153000 -0600" stop="20210202162000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">En Otra Piel</title>
+  </programme>
+  <programme start="20210202162000 -0600" stop="20210202171000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">En Otra Piel</title>
+  </programme>
+  <programme start="20210202171000 -0600" stop="20210202180000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210202180000 -0600" stop="20210202185000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Suelta la Sopa</title>
+  </programme>
+  <programme start="20210202185000 -0600" stop="20210202194000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">La Querida del Centauro</title>
+  </programme>
+  <programme start="20210202194000 -0600" stop="20210202203000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">La Querida del Centauro</title>
+  </programme>
+  <programme start="20210202203000 -0600" stop="20210202210000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Noticiero Telemundo - Mediodía</title>
+  </programme>
+  <programme start="20210202210000 -0600" stop="20210202220000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Una Maid en Manhattan</title>
+  </programme>
+  <programme start="20210202220000 -0600" stop="20210202230000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">Una Maid en Manhattan</title>
+  </programme>
+  <programme start="20210202230000 -0600" stop="20210202235000 -0600" channel="Canal Telemundo Internacional">
+    <title lang="es">12 corazones</title>
+  </programme>
+</tv>
